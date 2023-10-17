@@ -1,0 +1,51 @@
+.N1{
+    background-color: rgb(177, 241, 241);
+    height: 450px;
+    width: 1330px;
+    }
+h1{
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+text-align: center;
+color:white;
+font-size: 40px;
+}
+
+img{
+    margin: 80px;
+    float: left;
+}
+.papa{
+margin-top: 60px;
+margin-right: 80px;
+float: right;
+height: 500px;
+width: 600px
+}
+
+h2{
+font-family: 'Poppins', sans-serif;
+margin-top: 30px;
+font-size: 20px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color:aqua;
+    font-size: 40px;   
+}
+
+.mama{
+margin-left: 70px;
+height: 500px;
+width: 560px;
+}
+
+.pepe{
+    margin-left: 60px;
+    height: 70px;
+    width: 1200px;
+    background-color:aqua;
+    
+}
