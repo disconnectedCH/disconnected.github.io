@@ -1,3 +1,79 @@
+/* inicio de nav */
+nav ul{
+    list-style:none ;
+    margin: 20px;
+    padding: auto;
+   }
+
+   nav li{
+    display: inline;
+    margin-right: 20px;
+   }
+
+   li a{
+    text-decoration: none;
+    color: turquoise;
+   padding: 5px 10px;
+   font-size: 25px;
+   font-family: 'Poppins', sans-serif;;
+   font-weight: bold;
+   
+   }
+
+   li a:hover {
+    background-color: turquoise;
+    color: white;
+   }
+
+   .caja1 {
+    display: flex; 
+    align-items: center; 
+    margin-right: 50px;
+    float: left;
+  }
+
+   .caja1 h3 {
+    margin: 5px; 
+    font-size: 24px;
+    color: gray;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .caja2 {
+    margin: 5px; 
+    float: left;
+    display: flex;
+  }
+/*final de css de nav*/
+
+/* inicio de home */
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: rgb(173, 77, 9);
+    font-size: 40px;   
+    text-align: right;
+}
+/* final de home */
+
 /* inicio de about us */
 .N1{
     background-color: rgb(177, 241, 241);
@@ -116,79 +192,3 @@ margin-left: 70px;
     font-size: 20px;   
 }
 /* final de about us */
-
-/* inicio de home */
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-}
-
-.texto-encima{
-    position: absolute;
-    top: 10px;
-    left: 10px;
-}
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 80%;
-    transform: translate(-50%, -50%);
-}
-
-h1{
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Montserrat Alternates', sans-serif;
-    color: rgb(173, 77, 9);
-    font-size: 40px;   
-    text-align: right;
-}
-/* final de home */
-
-/* inicio de nav */
-nav ul{
-    list-style:none ;
-    margin: 20px;
-    padding: auto;
-   }
-
-   nav li{
-    display: inline;
-    margin-right: 20px;
-   }
-
-   li a{
-    text-decoration: none;
-    color: turquoise;
-   padding: 5px 10px;
-   font-size: 25px;
-   font-family: 'Poppins', sans-serif;;
-   font-weight: bold;
-   
-   }
-
-   li a:hover {
-    background-color: turquoise;
-    color: white;
-   }
-
-   .caja1 {
-    display: flex; 
-    align-items: center; 
-    margin-right: 50px;
-    float: left;
-  }
-
-   .caja1 h3 {
-    margin: 5px; 
-    font-size: 24px;
-    color: gray;
-    font-family: 'Poppins', sans-serif;
-  }
-  
-  .caja2 {
-    margin: 5px; 
-    float: left;
-    display: flex;
-  }
-/*final de css de nav*/
