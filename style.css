@@ -60,17 +60,15 @@ nav ul{
     position: absolute;
     top: 10px;
     left: 10px;
-    background-color: aqua;
 }
 .centrado{
     width: 600px;
     height: 300px;
     position: absolute;
-    margin-right: 80px;
-    top: 50%;
-    left: 80%;
+margin-right: 80px;
+margin-top: 30px;
+margin-left: 80px;
     transform: translate(-50%, -50%);
-    background-color: blueviolet;
 }
 
 
