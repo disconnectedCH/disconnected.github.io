@@ -1,4 +1,4 @@
-
+/* inicio de about us */
 .N1{
     background-color: rgb(177, 241, 241);
     height: 450px;
@@ -113,9 +113,9 @@ margin-left: 70px;
     font-family: 'Poppins', sans-serif;
     color: rgb(73, 92, 179);
     margin-top: 30px;
-    font-size: 20px; 
-   
+    font-size: 20px;   
 }
+/* final de about us */
 
 /* inicio de home */
 .contenedor{
@@ -175,7 +175,7 @@ nav ul{
    .caja1 {
     display: flex; 
     align-items: center; 
-    margin-right: 20px;
+    margin-right: 50px;
     float: left;
   }
 
