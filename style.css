@@ -71,7 +71,6 @@ margin-left: 80px;
     transform: translate(-50%, -50%);
 }
 
-
 /* final de home */
 
 /* inicio de about us */
@@ -151,6 +150,59 @@ h5{
     float: left;
     margin-left: 70px;
     
+}
+
+
+.icon1{
+    height: 200px;
+    width: 200px;
+ float: left;
+ margin-left: 110px;
+}
+.icon2{
+    height: 200px;
+    width: 300px;
+  float: left;
+  margin-left: 150px;
+}
+.icon3{
+height: 200px;
+width: 200px;
+float: left;
+margin-left: 70px;
+}
+
+.texto1{
+    height: 200px ;
+    width: 280px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.texto2{
+    height: 200px ;
+    width: 280px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+
+.texto3{
+    height: 200px ;
+    width: 280px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 120px;
+}
+
+.text{
+
+    font-family: 'Poppins', sans-serif;
+    color: rgb(73, 92, 179);
+    margin-top: 30px;
+    font-size: 20px; 
+   
 }
 
 
