@@ -116,6 +116,13 @@ h3{
     font-size: 40px;   
 }
 
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: white;
+    font-size: 70px;      
+}
+
 .mama{
 margin-left: 70px;
 height: 500px;
