@@ -115,9 +115,10 @@ h3{
 h5{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Montserrat Alternates', sans-serif;
-    color: white;
+    color: rgb(148, 62, 1);
     font-size: 50px;
     margin-right: 50px;
+    text-align: right;
 }
 
 
