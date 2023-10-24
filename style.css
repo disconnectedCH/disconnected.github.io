@@ -117,7 +117,7 @@ margin-left: 70px;
    
 }
 
-home
+/* inicio de home */
 .contenedor{
     position: relative;
     display: inline-block;
@@ -143,6 +143,8 @@ h1{
     font-size: 40px;   
     text-align: right;
 }
+/* final de home */
+
 /* inicio de nav */
 nav ul{
     list-style:none ;
