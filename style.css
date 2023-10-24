@@ -54,9 +54,6 @@ nav ul{
 }
 
 .texto-encima{
-    margin-right: 40px;
-    width: 600px;
-    height: 300px;
     position: absolute;
     top: 10px;
     left: 10px;
@@ -112,12 +109,11 @@ h3{
     font-size: 40px;   
 }
 
-h4{
+h5{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Montserrat Alternates', sans-serif;
     color: rgb(149, 59, 167);
-    font-size: 60px; 
-       
+    font-size: 50px; 
 }
 
 .mama{
