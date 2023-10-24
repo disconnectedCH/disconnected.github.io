@@ -60,6 +60,7 @@ nav ul{
     position: absolute;
     top: 10px;
     left: 10px;
+    background-color: aqua;
 }
 .centrado{
     width: 600px;
@@ -69,6 +70,7 @@ nav ul{
     top: 50%;
     left: 80%;
     transform: translate(-50%, -50%);
+    background-color: blueviolet;
 }
 
 
