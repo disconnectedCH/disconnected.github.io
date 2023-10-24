@@ -59,11 +59,15 @@ nav ul{
     left: 10px;
 }
 .centrado{
+    width: 200px;
     position: absolute;
     top: 50%;
     left: 80%;
     transform: translate(-50%, -50%);
+    height: 200px
 }
+
+/*karla tu puedes*/
 
 h5{
     font-family: 'Montserrat', sans-serif;
