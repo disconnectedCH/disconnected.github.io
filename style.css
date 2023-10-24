@@ -65,7 +65,7 @@ nav ul{
     width: 600px;
     height: 300px;
     position: absolute;
-margin-right: 80px;
+    margin-right: 80px;
 margin-top: 30px;
 margin-left: 80px;
     transform: translate(-50%, -50%);
@@ -139,7 +139,7 @@ width: 500px;
 
 .video{
     float: left;
-    width: 600px;
+    width: 500px;
     margin-left: 10px;
 }
 .des{
