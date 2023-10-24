@@ -54,23 +54,15 @@ nav ul{
 }
 
 .texto-encima{
-    margin-right: 20px;
-    width: 600px;
-    height: 300px;
     position: absolute;
     top: 10px;
     left: 10px;
 }
 .centrado{
-    width: 600px;
-    height: 300px;
     position: absolute;
-    margin-right: 80px;
-margin-top: 30px;
-margin-left: 80px;
-    transform: translate(-50%, -50%);
     top: 50%;
     left: 80%;
+    transform: translate(-50%, -50%);
 }
 
 h5{
@@ -159,15 +151,17 @@ margin-top: 20px;
 height: 200px;
 width: 200px;
 float: left;
-margin-left: 170px;
+margin-left: 180px;
 }
 .icon2{
+margin-top: 20px;
 height: 200px;
 width: 300px;
 float: left;
 margin-left: 170px;
 }
 .icon3{
+margin-top: 20px;
 height: 200px;
 width: 200px;
 float: left;
