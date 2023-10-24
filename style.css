@@ -62,7 +62,8 @@ nav ul{
     left: 10px;
 }
 .centrado{
-    
+    width: 600px;
+    height: 300px;
     position: absolute;
     top: 50%;
     left: 80%;
