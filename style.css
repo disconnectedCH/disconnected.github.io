@@ -59,12 +59,12 @@ nav ul{
     left: 10px;
 }
 .centrado{
-    width: 200px;
+    width: 100px;
     position: absolute;
     top: 50%;
     left: 80%;
     transform: translate(-50%, -50%);
-    height: 200px
+    height: 100px
 }
 
 /*karla tu puedes*/
