@@ -122,25 +122,28 @@ h5{
 }
 
 
+
 .what{
-margin-left: 70px;
-height: 500px;
-width: 500px;
+    margin-left: 70px;
+    height: 100px;
+    width: 700px;
+    
 }
 
 .pepe{
-    
+    float: left;
     margin-left: 60px;
-    height: 70px;
-    width: 1200px;
-    background-color:aqua;  
+    margin-top: 50px;
+    height: 100px;
+    width: 1220px;
+    background-color:rgba(157, 216, 255, 0.836);
+    
 }
-
 
 .video{
     float: left;
-    width: 500px;
-    margin-left: 10px;
+    width: 800px;
+    margin-left: 20px;
 }
 .des{
     height: 200px;
