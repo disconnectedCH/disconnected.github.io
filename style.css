@@ -71,6 +71,15 @@ margin-left: 80px;
     transform: translate(-50%, -50%);
 }
 
+h5{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: rgb(148, 62, 1);
+    font-size: 50px;
+    margin-right: 50px;
+    text-align: right;
+}
+
 /* final de home */
 
 /* inicio de about us */
@@ -112,17 +121,6 @@ h3{
     font-size: 40px;   
 }
 
-h5{
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Montserrat Alternates', sans-serif;
-    color: rgb(148, 62, 1);
-    font-size: 50px;
-    margin-right: 50px;
-    text-align: right;
-}
-
-
-
 .what{
     margin-left: 70px;
     height: 100px;
@@ -155,10 +153,11 @@ h5{
 
 
 .icon1{
-    height: 200px;
-    width: 200px;
- float: left;
- margin-left: 110px;
+margin-top: 20px;
+height: 200px;
+width: 200px;
+float: left;
+margin-left: 150px;
 }
 .icon2{
     height: 200px;
