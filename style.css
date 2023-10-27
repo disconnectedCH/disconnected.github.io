@@ -1,4 +1,5 @@
 /* inicio de nav */
+nav{margin: auto auto;}
 nav ul{
     list-style:none ;
     margin: 20px;
