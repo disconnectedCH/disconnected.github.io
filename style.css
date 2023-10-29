@@ -49,38 +49,78 @@ nav ul{
   }
 /*final de css de nav*/
 
-/* inicio de home (el html esta en el archivo de disconnected)*/
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
+/* inicio del CSS DEL HOME*/
+
+#hero{
+min-height: 100vh;
+position: relative;
 }
 
-.texto-encima{
-    position: absolute;
-    top: 10px;
-    left: 10px;
-}
-.centrado{
-    width: 600px;
-    position: absolute;
-    top: 50%;
-    left: 80%;
-    transform: translate(-50%, -50%);
-    height: 200px
+video{
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+object-fit: cover;
 }
 
-/*karla tu puedes*/
-
-h5{
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Montserrat Alternates', sans-serif;
-    color: rgb(148, 62, 1);
-    font-size: 50px;
-    margin-right: 50px;
-    text-align: right;
+.promo{
+  
+padding-top: 100px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 60%;
+margin: auto;
+position:relative;
+z-index: 2;      
 }
 
+.titulo{
+
+font-size: 50px;       
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+color: white;
+}
+
+.titulo{
+display: inline-block;
+position: relative;
+z-index: 3;
+}
+
+.titulo::after,.titulo::before{
+  content: '';
+position: absolute;
+width: 250px;
+height: 6px;
+background-color: white;
+top: 0.6em;
+z-index: 2;
+}
+
+.titulo::before{
+  z-index: 2;
+  left: -300px;}
+
+.titulo::after{
+right: -300px;
+z-index: 2;
+}
+  
+.subtexto{
+font-size: 30px;       
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+text-align: center;
+color: aqua;
+}
+
+/*fin del home*/
+
+/*inicio de contenido*/
 .N1{
     background-color: rgb(177, 241, 241);
     height: 450px;
