@@ -51,6 +51,10 @@ nav ul{
 
 /* inicio del CSS DEL HOME*/
 
+.HOMESITA{
+height: 500px;
+}
+
 #hero{
 min-height: 100vh;
 position: relative;
