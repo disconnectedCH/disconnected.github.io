@@ -94,7 +94,7 @@ z-index: 3;
 .titulo::after,.titulo::before{
 content: '';
 position: absolute;
-width: 250px;
+width: 220px;
 height: 6px;
 background-color: white;
 top: 0.6em;
