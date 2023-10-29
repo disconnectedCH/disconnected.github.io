@@ -94,8 +94,8 @@ z-index: 3;
 .titulo::after,.titulo::before{
 content: '';
 position: absolute;
-width: 220px;
-height: 6px;
+width: 200px;
+height: 5px;
 background-color: white;
 top: 0.6em;
 z-index: 2;
@@ -103,10 +103,10 @@ z-index: 2;
 
 .titulo::before{
 z-index: 2;
-left: -300px;}
+left: -250px;}
 
 .titulo::after{
-right: -300px;
+right: -250px;
 z-index: 2;
 }
   
@@ -115,7 +115,7 @@ font-size: 30px;
 font-family: 'Montserrat', sans-serif;
 font-family: 'Montserrat Alternates', sans-serif;
 text-align: center;
-color: aqua;
+color: black;
 }
 
 /*fin del home*/
