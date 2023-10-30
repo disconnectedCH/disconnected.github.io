@@ -28,16 +28,15 @@ nav ul{
    }
 
    .caja1 {
-    border-right: 1px solid black;
     display: flex; 
     align-items: center; 
-    margin-right: 50px;
+    margin-right: 230px;
     float: left;
   }
 
    .caja1 h3 {
     margin: 5px; 
-    font-size: 20px;
+    font-size: 23px;
     color: gray;
     font-family: 'Poppins', sans-serif;
   }
