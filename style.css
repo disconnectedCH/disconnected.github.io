@@ -127,7 +127,14 @@ color: black;
 
 /* CSS de boton */
 .button{
-  
+  background-color: gold;
+  padding: 5px 10px;
+  margin: 4px 2px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
 }
 
 /*inicio de contenido de home*/
@@ -344,6 +351,18 @@ h3{
       text-align: center;
   }
 /* final de CSS de objetives */
+
+/* CSS de how it works */
+
+/* video */
+.trailer{
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+object-fit: cover;
+}
+/* final de how it work */
 
 /* inicio de footer (tambien es el css de el archivo de contact us) */
 .final{
