@@ -183,6 +183,162 @@ h3{
     margin-left: 70px;
     
 }
+/* inio de CSS de objetives */
+
+.s1{  
+  height: 310px;
+  width: 1330px;
+  }
+  
+  .b4{
+      width: 1330px;
+      height: 250px;
+      background-color: aqua;
+  
+  }
+  .b5{
+      background-color: aqua;
+      height: 250px;
+      width: 1330px;
+  }
+  
+  .Ab{
+      height: 250px;
+      width: 1330;
+  }
+  
+  .cuadrado{
+  height: 80px;
+  width: 1335px;
+  background-color:aqua;
+  }
+  
+  h1{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+  color:white;
+  font-size: 40px;
+  }
+  
+  .icon1{
+  margin: 10px;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-left: 180px;
+  }
+  
+  .icon2{
+  height: 200px;
+  width: 300px;
+  float: left;
+  margin-left: 140px;
+  margin-top: 10px;
+  }
+  
+  .icon3{
+  height: 200px;
+  width: 190px;
+  float: left;
+  margin-left: 50px;
+  margin-top: 10px;
+  }
+      
+  .texto1{
+  height: 200px ;
+  width: 200px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 190px;
+  text-align: center;
+  }
+      
+  h2{
+  font-family: 'Poppins', sans-serif;
+  margin-top: 30px;
+  font-size: 20px;
+  }
+  
+  .texto2{
+  height: 200px ;
+  width: 280px;
+  float: left;
+  margin-top: 10px;
+  margin-left: 130px;
+  text-align: center;
+  }
+      
+  .texto3{
+          height: 200px ;
+          width: 280px;
+          float: left;
+          margin-top: 10px;
+          margin-left: 70px;
+          text-align: center;
+      }
+      
+      .text{
+      
+          font-family: 'Montserrat', sans-serif;
+          font-family: 'Montserrat Alternates', sans-serif;
+          text-align: center;
+          color:white;
+          font-size:30px;
+  }
+  
+  .icon4{
+      margin: 10px;
+      height: 200px;
+      width: 200px;
+      float: left;
+      margin-left: 180px;
+      
+  
+      }
+      .icon5{
+          height: 200px;
+          width: 300px;
+        float: left;
+        margin-left: 140px;
+        margin-top: 10px;
+      }
+      .icon6{
+      height: 200px;
+      width: 190px;
+      float: left;
+      margin-left: 50px;
+      margin-top: 10px;
+      }
+  
+  .texto4{
+      height: 200px ;
+      width: 260px;
+      float: left;
+      margin-top: 10px;
+      margin-left: 180px;
+      text-align: center;
+  
+  }
+  
+  .texto5{
+      height: 200px ;
+      width: 280px;
+      float: left;
+      margin-top: 10px;
+      margin-left: 80px;
+      text-align: center;
+  }
+  
+  .texto6{
+      height: 200px ;
+      width: 280px;
+      float: left;
+      margin-top: 10px;
+      margin-left: 70px;
+      text-align: center;
+  }
+/* final de CSS de objetives */
 
 /* inicio de footer (tambien es el css de el archivo de contact us) */
 .final{
