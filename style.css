@@ -125,7 +125,12 @@ color: black;
 
 /*fin del home*/
 
-/*inicio de contenido*/
+/* CSS de boton */
+.button{
+  
+}
+
+/*inicio de contenido de home*/
 .N1{
     background-color: aqua;
     height: 450px;
