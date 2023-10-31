@@ -27,6 +27,15 @@ nav ul{
     color: white;
    }
 
+   li a:active{
+    background-color: gray;
+    color: white;
+   }
+
+   li a:visited{
+    color: gray;
+   }
+
    .caja1 {
     display: flex; 
     align-items: center; 
