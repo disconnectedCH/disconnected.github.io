@@ -147,6 +147,15 @@ color: black;
   font-family: 'Poppins', sans-serif;
 }
 
+.button:hover {
+  background-color: turquoise;
+  color: white;
+}
+
+.button:active{
+  background-color: gray;
+  color: white;
+ }
 /*inicio de contenido de home*/
 .N1{
     background-color: aqua;
