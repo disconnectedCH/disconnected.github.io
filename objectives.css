@@ -50,6 +50,7 @@ nav ul{
 
 /*final de css de nav*/
 
+
 .texto1{
     height: 200px ;
     width: 200px;
@@ -228,11 +229,12 @@ margin-top: 30px;
                     margin-left: 20px;
                     text-align: justify;
                     
-                }.Ab{
-                margin-top: 20px;
-                height: 300px;
-                width: 1330px;
-            }
+                }
+.Ab{
+    margin-top: 20px;
+    height: 300px;
+    width: 1330px;
+}
 
 /**/
 
