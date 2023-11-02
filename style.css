@@ -216,11 +216,10 @@ h3{
 
 /* video */
 .trailer{
-position: absolute;
+
 top: 0;
 left: 0;
 right: 0;
-object-fit: cover;
 }
 /* final de how it work */
 
