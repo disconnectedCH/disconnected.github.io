@@ -213,6 +213,80 @@ h3{
 }
 
 /* CSS de how it works */
+.Poli{
+  background-color: rgb(177, 241, 241);
+  height: 450px;
+  width: 1330px;
+  }
+h5{
+font-family: 'Montserrat', sans-serif;
+font-family: 'Montserrat Alternates', sans-serif;
+text-align: center;
+color: white;
+font-size: 40px;
+}
+
+.gato{
+  margin: 80px;
+  float: left;
+}
+.ame{
+margin-top: 60px;
+margin-right: 80px;
+float: right;
+height: 500px;
+width: 600px
+}
+
+h4{
+font-family: 'Poppins', sans-serif;
+margin-top: 30px;
+font-size: 20px;
+}
+
+h6{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color:aqua;
+  font-size: 40px;   
+}
+
+.what{
+  margin-left: 70px;
+  height: 100px;
+  width: 700px;
+  
+}
+
+.pepe{
+  float: left;
+  margin-left: 60px;
+  margin-top: 50px;
+  height: 100px;
+  width: 1220px;
+  background-color:aqua;
+  
+}
+
+.kim{
+  float: right;
+  width: 800px;
+  height: 50px;
+  margin-right: 20px;
+  margin-top: -6%;
+}
+.lik{
+  height: 200px;
+  width: 420px;
+  float: left;
+  margin-left: 70px;
+  
+}
+
+.cont{
+  float: left;
+}
+
 
 /* video */
 .trailersito{
