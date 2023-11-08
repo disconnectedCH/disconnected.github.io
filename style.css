@@ -297,30 +297,40 @@ height: 500px;
 
 /* inicio de footer (tambien es el css de el archivo de contact us) */
 .final{
+  margin: 0;
+  padding: 0;
   width: 100%;
-  margin-top: 90%;
-  background-color: turquoise;
+  margin-top: 80%;
+  background: linear-gradient(to right, #74ebfd, #85EAFA, #CFEEF4);
   }
   
   .final .grupo1{
     width: 100%;
     max-width: 1200px;
-    margin: auto;
+    margin: 0 auto;
     display:grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: 30px;
-    padding: 15px 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
   }
   
   .final .grupo1 .box h1{
-    color: black;
+    color: white;
     margin-bottom: 25px;
     font-size: 18px;
-    font-family: 'Poppins', sans-serif;;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 2px solid grey;
+    padding-bottom: 8px;
+    display: inline-block;
   }
   
   .final .grupo1 .box li{
-    margin-left: 10px;
+    margin-bottom: 10px;
+    display: block;
+    transition: all .3s ease;
+  }
+  
+  .final .grupo1 .box li:hover{
+    color: black;
+    padding-left: 6px;
   }
   
   .final .grupo1 .box h2{
@@ -336,17 +346,16 @@ height: 500px;
   }
   
   .final .grupo1 .box p{
-    margin-bottom: 30px;
+    margin-bottom: 25px;
   }
   
-  .final .grupo1 .box ul{
+  .final .grupo1 .box ul {
     list-style: none;
   }
   
-  
   .final .grupo1 .box figure{
-    width: 100%;
-    height: 100%;
+    width: 25% ;
+    height: 120px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -358,24 +367,34 @@ height: 500px;
   
   .final .grupo1 .redes a{
     display: inline-block;
-    text-decoration: none;
-    width: 45px;
-    height: 45px;
+    width: 40px;
+    height: 40px;
     line-height: 45px;
-    color: black;
-    margin-right: 10px;
+    margin-bottom: 15px;
     background-color: lightcyan;
+    color: black;
+    border-radius: 50%;
     text-align: center;
-    transform: all 300ms ease;
+    transform: all .5s ease;
   }
   
   .final .grupo1 .redes a:hover{
-    color: grey;
+    background-color: white;
+  
+  }
+  .final .grupo1 .descargas a{
+    width: 25% ;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .final .grupo2{
+    color: turquoise;
+    background-color: white;
+    padding: 10px 5px;
     text-align: center;
-    color: white;
   }
   
   .final .grupo2 small{
