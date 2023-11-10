@@ -215,14 +215,13 @@ h3{
 }
 
 /*inicio del css del trailer*/
-
-.pop{
+.popp{
   font-family: 'Poppins', sans-serif;
   font-size: 50px;   
   color: black;
   }
   
-  .mont{
+  .montse{
       font-size:48px;       
       font-family: 'Montserrat', sans-serif;
       font-family: 'Montserrat Alternates', sans-serif;
@@ -233,8 +232,7 @@ h3{
   .imagensita{
       margin-left: 100px;
   }
-
-  .titi{
+  .toto{
       height: 300px;
       float: left;
       margin-left: 40px;
@@ -244,7 +242,8 @@ h3{
   .borde{
   margin-left: 40px;
   float: left;
-   }
+  
+  }
 
 
 /*final del css del trailer*/
