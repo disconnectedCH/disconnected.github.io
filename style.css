@@ -193,6 +193,7 @@ h3{
 }
 
 .what{
+   margin-top: 20px;
     margin-left: 70px;
     height: 50px;
     width: 700px;
@@ -205,6 +206,7 @@ h3{
     top: -30px;
 }
 .des{
+  margin-top: -10px;
     height: 200px;
     width: 420px;
     float: left;
