@@ -209,6 +209,7 @@ h3{
     width: 420px;
     float: left;
     margin-left: 70px;
+    text-align: justify;
     
 }
 
@@ -218,30 +219,32 @@ h3{
   height: 450px;
   width: 1330px;
   }
+
 h5{
-font-family: 'Montserrat', sans-serif;
-font-family: 'Montserrat Alternates', sans-serif;
-text-align: center;
-color: white;
-font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+  text-align: center;
+  color: white;
+  font-size: 40px;
 }
 
 .gato{
   margin: 80px;
   float: left;
 }
+
 .ame{
-margin-top: 60px;
-margin-right: 80px;
-float: right;
-height: 500px;
-width: 600px
+  margin-top: 60px;
+  margin-right: 80px;
+  float: right;
+  height: 500px;
+  width: 600px
 }
 
 h4{
-font-family: 'Poppins', sans-serif;
-margin-top: 30px;
-font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  margin-top: 30px;
+  font-size: 20px;
 }
 
 h6{
