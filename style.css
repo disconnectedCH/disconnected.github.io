@@ -1,6 +1,6 @@
 /* inicio de nav */
-nav{margin: auto auto;}
-nav ul{
+  nav{margin: auto auto;}
+  nav ul{
     list-style:none ;
     margin: 20px;
     padding: auto;
@@ -153,12 +153,14 @@ color: black;
   background-color: gray;
   color: white;
  }
+
 /*inicio de contenido de home*/
+        
 .N1{
-    background-color: aqua;
-    height: 450px;
-    width: 1330px;
-    }
+  background-color: rgb(33, 235, 235);
+  height: 450px;
+  width: 1330px;
+  }
 h1{
 font-family: 'Montserrat', sans-serif;
 font-family: 'Montserrat Alternates', sans-serif;
@@ -168,8 +170,8 @@ font-size: 40px;
 }
 
 .escritorio{
-    margin: 80px;
-    float: left;
+  margin: 80px;
+  float: left;
 }
 .papa{
 margin-top: 60px;
@@ -186,35 +188,36 @@ font-size: 23px;
 }
 
 h3{
-    font-family: 'Montserrat', sans-serif;
-    font-family: 'Montserrat Alternates', sans-serif;
-    color:aqua;
-    font-size: 40px;   
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color:rgb(33, 235, 235);
+  font-size: 40px;   
 }
 
 .what{
-   margin-top: 20px;
-    margin-left: 70px;
-    height: 40px;
-    width: 700px;
+ margin-top: 20px;
+  margin-left: 70px;
+  height: 60px;
+  width: 500px;
 }
 
-.video{
-    float: left;
-    width: 800px;
-    margin-left: 20px;
-    top: -30px;
-}
-.des{
-    height: 200px;
-    width: 420px;
-    float: left;
-    margin-left: 70px;
-    text-align: justify;
+.celulares{
+  float: left;
+  top: -50px;
  
 }
+.des{
+  height: 300px;
+  width: 420px;
+  float: left;
+  margin-left: 70px;
+  text-align: justify;
 
-/*inicio del css del trailer*/
+}
+
+/*final del contenido/
+        
+/*inicio del contenido sobre el trailer*/
 .popp{
   font-family: 'Poppins', sans-serif;
   font-size: 50px;   
@@ -232,21 +235,22 @@ h3{
   .imagensita{
       margin-left: 100px;
   }
+
   .toto{
       height: 300px;
       float: left;
-      margin-left: 40px;
+      margin-left: 60px;
       margin-top: 80px;
+  
   }
   
   .borde{
-  margin-left: 40px;
-  float: left;
+   margin-left: 40px;
+   float: left;
+   margin-top: 50px;
   
   }
-
-
-/*final del css del trailer*/
+/*final del contenido del trailer*/
 
 /* inicio de footer (tambien es el css de el archivo de contact us) */
 .final{
