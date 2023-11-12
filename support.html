@@ -14,6 +14,44 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+<style>
+body {
+    margin-left: 2cm;
+    padding: 0;
+}
+
+.caja {
+    width: 95%; 
+    height: 14cm;
+    display: flex;
+    border: 4px solid #000000;
+}
+
+.division {
+    flex: 1;
+    border-right: 4px solid #000000; 
+    box-sizing: border-box ; 
+}
+.contenido {
+    padding: 20px; 
+    text-align: left; 
+}
+
+/* Estilos CSS para el botón */
+button {
+    padding: 18px 24px; 
+    font-size: 18px; 
+    background-color:rgb(30, 224, 224);
+    color: white; 
+    border: none; 
+    border-radius: 4px; 
+    cursor:pointer; 
+}
+
+button:hover {
+    background-color:rgb(45, 190, 190);
+}
+</style>
 </head>
 <body>
 <!-- Inicio de nav--> 
@@ -37,6 +75,38 @@
     </nav>
     <hr>  
 <!-- final de nav-->
+
+<div class="caja">
+    <div class="division">
+        <div class="contenido"> 
+            <h1>Popular questions</h1>
+            
+        </div>
+    </div>
+    <div class="division">
+        <div class="contenido">
+            <h1>Direct call</h1>
+            <h3>Call our experts directly.</h3>
+            <br>
+            <button>+507 258 9999</button>
+            <br>
+            <h1>Chat support</h1>
+            <h3>Need assistance? Contact our experts for specific technical assistance and support.</h3>
+            <br>
+            <button>Request chat support</button>
+        </div>
+    </div>
+    <div class="division">
+        <div class="contenido">
+            <h1>I have an idea for the app!</h1>
+            <h3>Do you have an idea for this app? Tell us about it in our email.</h3>
+            <br>
+            <button> Send email</button>
+        </div>
+    </div>
+</div>
+
+
 <!-- inicio de footer-->
 <footer class="final">
     <div class="grupo1">
